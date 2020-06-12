@@ -67,7 +67,7 @@ with open(budget_csv, 'r') as csvfile:
     # Specify the file to write to
     output_path = os.path.join("Analysis", "Financial_Analysis.txt")
 
-    # Open the file using "write" mode. Specify the variable to hold the contents
+    # Open the file using "write" mode. Specify the variable to hold the contentsgi
     with open(output_path, 'w') as txtfile:
 
     # # Initialize csv.writer
